@@ -24,7 +24,8 @@
    sub_category: {}
 }
 
-def naming_system {
+def naming_system 
+  naming_hash = {
     PORTION_1 =>
      {label: "Kingdom",
       sub_category: {
@@ -40,4 +41,5 @@ def naming_system {
   PORTION_4 =>
     {label: "Species",
     sub_category: {}}}
+    p naming_hash
 end
