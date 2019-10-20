@@ -24,8 +24,7 @@
    sub_category: {}
 }
 
-def naming_system
-  starting_node= {
+def naming_system {
     PORTION_1 =>
      {label: "Kingdom",
       sub_category: {
@@ -41,5 +40,4 @@ def naming_system
   PORTION_4 =>
     {label: "Species",
     sub_category: {}}}
-p starting_node
 end
