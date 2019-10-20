@@ -24,7 +24,7 @@
    sub_category: {}
 }
 
-def naming_system 
+def naming_system
   naming_hash = {
     PORTION_1 =>
      {label: "Kingdom",
